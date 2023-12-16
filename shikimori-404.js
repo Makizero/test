@@ -1,0 +1,1 @@
+var func=function(){let e=document.querySelector("p.error-404");if(e){let a=window.location.href;if(a.includes("/mangas/")){let t=a.match(/mangas\/[a-z]*(\d+)-/)[1],n=`https://myanimelist.net/manga/${t}`;window.location.href=n}else if(a.includes("/animes/")){let i=a.match(/animes\/[a-z]*(\d+)-/)[1],l=`https://myanimelist.net/anime/${i}`;window.location.href=l}}};

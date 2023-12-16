@@ -1,4 +1,3 @@
-(function() {
     function replaceSelector() {
         const elements = document.querySelectorAll('.mv_box._has_playlist._hide_recomms');
         elements.forEach(element => {
@@ -12,4 +11,3 @@
             replaceSelector();
         }
     }, 10);
-})();

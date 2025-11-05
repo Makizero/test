@@ -1,0 +1,418 @@
+[
+  {
+    "title": "Final Fantasy XVI",
+    "url": "https://stopgame.ru/game/final_fantasy_xvi",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4,
+    "favorite": 1
+  },
+  {
+    "title": "Life is Strange",
+    "url": "https://stopgame.ru/game/life_is_strange",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.2,
+    "favorite": 1
+  },
+  {
+    "title": "Batman: Arkham Knight",
+    "url": "https://stopgame.ru/game/batman_arkham_knight",
+    "status": "Играю",
+    "userRating": 5,
+    "gameRating": 4.3,
+    "favorite": 1
+  },
+  {
+    "title": "Portal 2",
+    "url": "https://stopgame.ru/game/portal_2",
+    "status": "Играю",
+    "userRating": 5,
+    "gameRating": 4.7,
+    "favorite": 1
+  },
+  {
+    "title": "Unravel Two",
+    "url": "https://stopgame.ru/game/unravel_two",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 3.9,
+    "favorite": 1
+  },
+  {
+    "title": "Split Fiction",
+    "url": "https://stopgame.ru/game/split_fiction",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.5,
+    "favorite": 1
+  },
+  {
+    "title": "Marvel's Spider-Man 2",
+    "url": "https://stopgame.ru/game/marvel_s_spider_man_2",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4,
+    "favorite": 1
+  },
+  {
+    "title": "Marvel's Guardians of the Galaxy",
+    "url": "https://stopgame.ru/game/marvel_s_guardians_of_the_galaxy",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.3,
+    "favorite": 1
+  },
+  {
+    "title": "Prince of Persia: The Lost Crown",
+    "url": "https://stopgame.ru/game/prince_of_persia_the_lost_crown",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4,
+    "favorite": 1
+  },
+  {
+    "title": "It Takes Two",
+    "url": "https://stopgame.ru/game/it_takes_two",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.6,
+    "favorite": 1
+  },
+  {
+    "title": "Horizon: Forbidden West",
+    "url": "https://stopgame.ru/game/horizon_forbidden_west",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 3.8,
+    "favorite": 1
+  },
+  {
+    "title": "В Тылу Врага",
+    "url": "https://stopgame.ru/game/v_tylu_vraga",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.4,
+    "favorite": 1
+  },
+  {
+    "title": "Unravel",
+    "url": "https://stopgame.ru/game/unravel",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 3.9,
+    "favorite": 1
+  },
+  {
+    "title": "Marvel's Spider-Man",
+    "url": "https://stopgame.ru/game/insomniac_s_spider_man",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.3,
+    "favorite": 1
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "url": "https://stopgame.ru/game/hogwarts_legacy",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 3.6,
+    "favorite": 1
+  },
+  {
+    "title": "Stray",
+    "url": "https://stopgame.ru/game/stray",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.1,
+    "favorite": 1
+  },
+  {
+    "title": "Red Dead Redemption II",
+    "url": "https://stopgame.ru/game/red_dead_redemption_2",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.7,
+    "favorite": 1
+  },
+  {
+    "title": "Vampyr",
+    "url": "https://stopgame.ru/game/vampyr",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 3.5,
+    "favorite": 1
+  },
+  {
+    "title": "Assassin's Creed: Origins",
+    "url": "https://stopgame.ru/game/assassin_s_creed_origins",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 3.6,
+    "favorite": 1
+  },
+  {
+    "title": "NieR: Automata",
+    "url": "https://stopgame.ru/game/nier_automata",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.3,
+    "favorite": 1
+  },
+  {
+    "title": "Watch_Dogs 2",
+    "url": "https://stopgame.ru/game/watch_dogs_2",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 3.8,
+    "favorite": 1
+  },
+  {
+    "title": "Black Desert",
+    "url": "https://stopgame.ru/game/black_desert",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 3.2,
+    "favorite": 1
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "url": "https://stopgame.ru/game/witcher_3_wild_hunt",
+    "status": "Играю",
+    "userRating": 5,
+    "gameRating": 4.7,
+    "favorite": 1
+  },
+  {
+    "title": "Assassin's Creed: Unity",
+    "url": "https://stopgame.ru/game/assassin_s_creed_unity",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 3.6,
+    "favorite": 1
+  },
+  {
+    "title": "Styx: Master of Shadows",
+    "url": "https://stopgame.ru/game/styx_master_of_shadows",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 3.6,
+    "favorite": 1
+  },
+  {
+    "title": "Saints Row IV",
+    "url": "https://stopgame.ru/game/saints_row_4",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 3.9,
+    "favorite": 1
+  },
+  {
+    "title": "Assassin's Creed IV: Black Flag",
+    "url": "https://stopgame.ru/game/assassin_s_creed_4_black_flag",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.3,
+    "favorite": 1
+  },
+  {
+    "title": "Warframe",
+    "url": "https://stopgame.ru/game/warframe",
+    "status": "Играю",
+    "userRating": 5,
+    "gameRating": 3.8,
+    "favorite": 1
+  },
+  {
+    "title": "Remember Me",
+    "url": "https://stopgame.ru/game/remember_me",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 3.8,
+    "favorite": 1
+  },
+  {
+    "title": "Saints Row: The Third",
+    "url": "https://stopgame.ru/game/saints_row_the_third",
+    "status": "Пройдено",
+    "userRating": 0,
+    "gameRating": 4.2,
+    "favorite": 1
+  },
+  {
+    "title": "Crysis 2",
+    "url": "https://stopgame.ru/game/crysis_2",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4,
+    "favorite": 1
+  },
+  {
+    "title": "Darksiders",
+    "url": "https://stopgame.ru/game/darksiders",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.1,
+    "favorite": 1
+  },
+  {
+    "title": "Mass Effect 2",
+    "url": "https://stopgame.ru/game/mass_effect_2",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.6,
+    "favorite": 1
+  },
+  {
+    "title": "Ninja Blade",
+    "url": "https://stopgame.ru/game/ninja_blade",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 3.5,
+    "favorite": 1
+  },
+  {
+    "title": "Mafia II",
+    "url": "https://stopgame.ru/game/mafia_2",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.2,
+    "favorite": 1
+  },
+  {
+    "title": "Dragon Age: Origins",
+    "url": "https://stopgame.ru/game/dragon_age",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.6,
+    "favorite": 1
+  },
+  {
+    "title": "Aion: The Tower of Eternity",
+    "url": "https://stopgame.ru/game/aion_the_tower_of_eternity",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 3.8,
+    "favorite": 1
+  },
+  {
+    "title": "Prototype",
+    "url": "https://stopgame.ru/game/prototype_2008",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 3.8,
+    "favorite": 1
+  },
+  {
+    "title": "Disciples III: Renaissance",
+    "url": "https://stopgame.ru/game/disciples_3_renaissance",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 3.4,
+    "favorite": 1
+  },
+  {
+    "title": "Prince of Persia: The Two Thrones",
+    "url": "https://stopgame.ru/game/prince_of_persia_the_two_thrones",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.2,
+    "favorite": 1
+  },
+  {
+    "title": "Assassin's Creed II",
+    "url": "https://stopgame.ru/game/assassins_creed_2",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.4,
+    "favorite": 1
+  },
+  {
+    "title": "The Lord of the Rings: The Battle for Middle-earth 2",
+    "url": "https://stopgame.ru/game/lord_of_the_rings_the_battle_for_middle_earth_2_the",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.4,
+    "favorite": 1
+  },
+  {
+    "title": "Gothic 3",
+    "url": "https://stopgame.ru/game/gothic_3",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 3.9,
+    "favorite": 1
+  },
+  {
+    "title": "Call of Duty 2",
+    "url": "https://stopgame.ru/game/call_of_duty_2",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.3,
+    "favorite": 1
+  },
+  {
+    "title": "The Matrix: Path of Neo",
+    "url": "https://stopgame.ru/game/matrix_path_of_neo_the",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 3.8,
+    "favorite": 1
+  },
+  {
+    "title": "Age of Empires III",
+    "url": "https://stopgame.ru/game/age_of_empires_3",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.3,
+    "favorite": 1
+  },
+  {
+    "title": "Need for Speed: Most Wanted",
+    "url": "https://stopgame.ru/game/need_for_speed_most_wanted",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.5,
+    "favorite": 1
+  },
+  {
+    "title": "Grand Theft Auto: San Andreas",
+    "url": "https://stopgame.ru/game/grand_theft_auto_san_andreas",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.5,
+    "favorite": 1
+  },
+  {
+    "title": "Call of Duty",
+    "url": "https://stopgame.ru/game/call_of_duty",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.2,
+    "favorite": 1
+  },
+  {
+    "title": "Prince of Persia: Warrior Within",
+    "url": "https://stopgame.ru/game/prince_of_persia_warrior_within",
+    "status": "Пройдено",
+    "userRating": 5,
+    "gameRating": 4.4,
+    "favorite": 1
+  },
+  {
+    "title": "Max Payne 2: The Fall of Max Payne",
+    "url": "https://stopgame.ru/game/max_payne_2_the_fall_of_max_payne",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.4,
+    "favorite": 1
+  },
+  {
+    "title": "Prince of Persia: The Sands of Time",
+    "url": "https://stopgame.ru/game/prince_of_persia_the_sands_of_time",
+    "status": "Пройдено",
+    "userRating": 4,
+    "gameRating": 4.3,
+    "favorite": 1
+  }
+]
